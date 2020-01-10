@@ -17,6 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
+master_doc = 'index'
 project = 'XRi'
 copyright = '2020, Yuxin Yang'
 author = 'Yuxin Yang'
