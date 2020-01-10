@@ -1,4 +1,4 @@
 Introduction
 ============
 
-XRi is a project in Kent State University. 
+XRi is a project at Kent State University. 
