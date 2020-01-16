@@ -16,7 +16,7 @@ After videos have been loaded, you need to first select one canvas using `Select
 
 There are six kind of annotations provided: text annotation, button annotation, comment annotation, flag annotation, exclamation annotation, and favorite annotation. 
 
-**Due to some technical problems, text annotation is now disabled. **
+**Due to some technical problems, text annotation is now disabled.**
 
 Difference between these annotations is the image on these annotations. 
 
