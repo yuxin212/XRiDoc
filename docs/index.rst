@@ -10,5 +10,5 @@
     :maxdepth: 2
     :hidden:
 
-    userManual/sync
-    userManual/edit
+    userManual/viewer
+    userManual/editor
